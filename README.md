@@ -3,4 +3,4 @@ a testrepo
 
 ## editing the file
 
-Its a markdowon file in this repository
+Its a markdown file in this repository
